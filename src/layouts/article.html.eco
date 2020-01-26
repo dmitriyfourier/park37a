@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ru">
+<head>
+    <!-- Standard Meta -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- Site Properities -->
+    <title><%= @getPreparedTitle() %></title>
+    <meta name="description" content="<%= @getPreparedDescription() %>" />
+    <meta name="keywords" content="<%= @getPreparedKeywords() %>" />
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+
+    <!-- DocPad Meta -->
+    <%- @getBlock('meta').toHTML() %>
+
+    <!-- DocPad Styles + Our Own -->
+    <link rel="stylesheet" href="/ui/article.css">
+    <%- @getBlock('styles').add([].concat(@site.styles or []).concat(@document.styles or [])).toHTML() %>
+
+    <!-- Icons -->
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=A0RJW2vMdo">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png?v=A0RJW2vMdo" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png?v=A0RJW2vMdo" sizes="16x16">
+    <link rel="manifest" href="/manifest.json?v=A0RJW2vMdo">
+    <link rel="shortcut icon" href="/favicon.ico?v=A0RJW2vMdo">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Feeds -->
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/atom.xml">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
+    <link rel="canonical" href="<%= @site.canonicalUrl %><%= @document.url %>">
+    <meta property="fb:pages" content="297287297277384" />
+
+    <%- @partial('opengraph') %>
+    <%- @partial('twittercard') %>
+    <%- @partial('googleAnalytics') %>
+</head>
+<body class="allpage allpage-max-width allpage-stickyfooter layout-<%- @document.kind %>" id="top">
+    <article class="allpage--body nav-placeholder content-width article-grid" role="main">
+        <%- @content %>
+    </article>
+    <div class="content-width allpage--article-footer">
+        <div class="row row-between-xs row-center-xs">
+            <div class="col-xs-12 col-sm-shrink space-in-h-zero-xs">
+                <%- @partial('footer') %>
+            </div>
+            <div class="col-xs-12 col-sm-shrink space-in-h-zero-xs">
+                <%- @partial('likely') %>
+            </div>
+        </div>
+    </div>
+    <div class="disqus-wrapper">
+        <article id="disqus_thread" class="disqus-container">
+            <noscript>Включите Javascript, чтобы увидеть комментарии.</noscript>
+        </article>
+    </div>
+    <!--nav class="read-next">
+        <%- @getNavLinks() %>
+    </nav-->
+    <%- @partial('navigation') %>
+    <%- @partial('scripts') %>
+    <%- @partial('docpadscripts') %>
+    <%- @partial('disqusscripts') %>
+    <%- @partial('yandexmetrika') %>
+    <%- @partial('offlinejs') %>
+</body>
+</html>

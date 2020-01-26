@@ -1,0 +1,331 @@
+---
+layout: 'homepage'
+title: 'Блог Павла Радькова'
+description: 'Заметки о вёрстке, дизайне, юзабилити, типографике, методологиях и процессах'
+og_image: '/i/og/og-index.png'
+---
+<article class="flex-grow-xs" role="main">
+        <header class="row row-middle-md space-out-bottom-mili-xs space-out-bottom-nano-lg">
+    <div class="col-xs-12 col-md">
+        <nav class="row space-in-left-kilo-xs space-in-left-micro-md">
+
+            <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#about">О чем
+                речь?</a>
+            <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#plan">Что предлагаю</a>
+            <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#polza">Что нам это даст?</a>
+            <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#site">Что будет на сайте?</a>
+                <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#P.S">Пост скриптум</a>
+        </nav>
+    </div>
+</header>
+<hr>
+<section class="blogwall-item blogwall-gridcell blogwall-fauxlink col-flex-sm" id="projects">
+
+    
+    <div class="row row-bottom-sm row-between-sm">
+        <div class="col-xs-12 col-sm-shrink">
+            <h1 class="space-in-right-mili-lg"><a href="https://vk.com/sobranieodn">Общее собрание по вопросам ОДН</a></h1>
+            <h2>Повестка:</h2>
+            <p>❶ Выбор председателя и секретаря собрания</p>
+
+            <p>❷ Об Оплате коммунальных услуг согласно общедомового прибора учёта: </p>
+            <ul>
+                <li>— Электроэнергия,</li>
+                <li>— горячая и холодная вода</li>
+                <li>— водоотведение.</li>
+            </ul>
+            <p>
+                <a href="https://vk.com/sobranieodn" target="_blank" rel="noopener" class="link-to-demo">Принять участие</a>
+            </p>  
+
+        </div>
+        <div class="col-xs-12 col-sm-shrink">
+
+        </div>
+    </div>
+</section>
+<hr>
+<section class="" id="projects">
+    <div class="row row-bottom-sm row-between-sm">
+        <div class="col-xs-12 col-sm-shrink">
+            <h1 class="space-in-right-mili-lg">Сообщество соседей</h1>
+            <h2>Соседи, привет.</h2>
+            <p>На&nbsp;связи, Дима Фурье из&nbsp;57&nbsp;квартиры. </p>
+            <p>Я&nbsp;всю жизнь, живу в&nbsp;нашем доме. Но&nbsp;за&nbsp;27&nbsp;лет, соседей, которых я&nbsp;знаю
+                по&nbsp;именам, можно пересчитать по&nbsp;пальцам.</p>
+            <p>Но&nbsp;если вы&nbsp;уж&nbsp;попали на&nbsp;этот сайт (уж&nbsp;не&nbsp;знаю, как мне удалось вас сюда
+                привести), но&nbsp;давайте я&nbsp;расскажу зачем вы&nbsp;здесь.</p>
+
+            <h2 id="about">Немного о&nbsp;моей задумке</h2>
+            <p><strong>Маленькая предыстория:</strong></p>
+            <p>Не&nbsp;так давно мои хорошие друзья, купили квартиру в&nbsp;новостройке. Они мне рассказали, что все
+                их&nbsp;вопросы решаются в&nbsp;чате в&nbsp;группе. В&nbsp;результате, практически все жильцы знают, что
+                происходит в&nbsp;доме.</p>
+            <p>Мне показалась эта мысль рациональной. Т.е. если в&nbsp;многоэтажках на&nbsp;200 квартир могут решать
+                общие вопросы таким образом, то&nbsp;почему-бы нам в&nbsp;наших четырёх подъездах не&nbsp;попробовать
+                тоже самое. </p>
+            <p><strong>Продолжение истории</strong></p>
+            <p>Не&nbsp;так давно, у&nbsp;нас в&nbsp;доме прошло общее собрание по&nbsp;вопросу замены электрики
+                в&nbsp;подъезде. Из&nbsp;144&nbsp;квартир, было от&nbsp;силы человек 20.</p>
+            <p>Честно, мне кажется, что это провал, и&nbsp;нам нужно что-то менять.</p>
+
+            <h2 id="plan">Стоп, Дим, ты&nbsp;только критикуешь, а&nbsp;что можешь предложить?</h2>
+            <p>Друзья, мы&nbsp;не&nbsp;враги друг другу, и&nbsp;как минимум крыша над головой у&nbsp;нас общая. Вот, что
+                я&nbsp;предлагаю</p>
+
+            <h3>Шаг первый</h3>
+            <p>Организовать общее пространство для обсуждений. Пока я&nbsp;создал группу Вконтакте, и&nbsp;на&nbsp;базе
+                его общий чат, в&nbsp;дальнейшем можем пересмотреть место общения.</p>
+                <p>
+                    <a href="https://vk.com/parkoviy37a" target="_blank" rel="noopener" class="link-to-demo">Группа Вконтакте</a>
+                </p>    
+            <p>Там мы&nbsp;сможем, оперативно обсуждать насущные вопросы&nbsp;— ремонт, благоустройство, повестки общих
+                собраний, и&nbsp;вопросы коммуникации с&nbsp;управляющей компанией.</p>
+            <p>Так например, на&nbsp;общем собрании, мы&nbsp;все были вынуждены просить у&nbsp;человека техническое
+                задание, с&nbsp;за&nbsp;принятие, которого мы&nbsp;должны проголосовать. А&nbsp;могли за&nbsp;неделю
+                до&nbsp;этого выложить, эти документы, чтобы все жильцы изучили их&nbsp;могли придти на&nbsp;собрание
+                с&nbsp;подготовленными вопросами, или обсудить там&nbsp;же в&nbsp;группе.</p>
+
+            <h3>Шаг второй</h3>
+            <p>Привлечь как можно больше соседей, к&nbsp;обсуждению общих вопросов.</p>
+            <p>Я&nbsp;очень благодарен, тем соседям, которые сейчас являются старшими по&nbsp;подъезду, или входят
+                в&nbsp;совет дома. Я&nbsp;прекрасно понимаю, что вам сложно организовывать все это, в&nbsp;силу того,
+                что нет прозрачных инструментов для информирования. Поэтому наша группа может им&nbsp;быть
+                в&nbsp;помощь. </p>
+            <p>Первое время я&nbsp;рассчитываю, на&nbsp;то, что молодые соседи, хорошо знакомые с&nbsp;техникой
+                и&nbsp;интернетом вольются в&nbsp;это движение. Для пожилых людей, тоже продумаем, как подключить
+                к&nbsp;общим обсуждениям. В&nbsp;некоторые вечера готов выделять время, чтобы объяснить, как
+                зарегистрироваться подключиться и&nbsp;писать сообщения. </p>
+
+            <h3>Шаг третий</h3>
+            <p>Разработать схему проведения общих собраний. </p>
+            <p>Сейчас мне основной проблемой видится, отсутствие достаточного информирования и&nbsp;коммуникаций. Нам
+                нужен регламент. Как проводим подготовку к&nbsp;собранию, как информируем жильцов, для большей
+                вовлеченности, как проводим. Это должно помочь, эффективнее управлять домом, не&nbsp;распыляясь
+                на&nbsp;конфликты и&nbsp;мелочи.</p>
+
+            <h2 id="polza">Что это нам даст?</h2>
+            <p>Друзья, не&nbsp;знаю, как вы&nbsp;относитесь к&nbsp;своей квартире. Но&nbsp;в&nbsp;обществе сложилось
+                мнение, что лучший способ сохранить свои деньги&nbsp;— вложить в&nbsp;недвижимость. </p>
+            <p>Так вот, каждый квадратный метр квартиры, стоит денег. Если посмотреть на&nbsp;квартиры в&nbsp;нашем
+                доме, которые продают на&nbsp;Авито, то&nbsp;цена находится в&nbsp;районе 51&nbsp;— 52&nbsp;тысяч рублей
+                за&nbsp;квадратный метр в&nbsp;трёхкомнатной квартире.</p>
+            <p>Так вот, если подумать, то&nbsp;на&nbsp;цену влияет не&nbsp;только внутренняя отделка, хороший ремонт.
+                Но&nbsp;и&nbsp;то, что находится за&nbsp;пределами порога&nbsp;— ремонт и&nbsp;чистота в&nbsp;подъезде,
+                аккуратные газоны у&nbsp;дома, уютный вход в&nbsp;подлъезд. В&nbsp;общем все&nbsp;то, чем
+                мы&nbsp;распоряжаемся через управляющую компанию и&nbsp;общие собрания.</p>
+            <p>Чем продуктивнее, мы&nbsp;будем решать, что ремонтируем, что приводим в&nbsp;порядок, в&nbsp;подъезде,
+                дворе&nbsp;— тем больше шансов, что наше жильё будет расти в&nbsp;цене, а&nbsp;не&nbsp;падать.
+                И&nbsp;это уже наше общая отвественность. </p>
+            <p>А&nbsp;раз уж&nbsp;мы&nbsp;все вместе живем в&nbsp;одном доме, почему-бы нам не&nbsp;организоваться так,
+                чтобы общими действиями ценность нашего жилья улучшать. </p>
+            <p>Да&nbsp;и&nbsp;всегда приятно зайти в&nbsp;комфортный подъезд, где есть свет, убрано и&nbsp;в&nbsp;целом
+                чувствуется комфорт. Еще круче будет, если нам удасться сделать классный двор, в&nbsp;котором хочется
+                проводить время, а&nbsp;не&nbsp;бежать в&nbsp;центр или ещё куда-то.</p>
+            <p>Так, может уже пора осознать нашу ответственность за&nbsp;нашу квартиру и&nbsp;её&nbsp;ценность.
+                В&nbsp;конце концов, кто-то её&nbsp;продаст подороже, а&nbsp;кто-то передаст своим детям хорошее жильё.
+            </p>
+
+            <h2 id="site">Что будет на&nbsp;сайте?</h2>
+            <p>Давайте будем честными, наша управляющая компания не&nbsp;даёт никакого сервиса,
+                ну&nbsp;и&nbsp;качественной работы. У&nbsp;них даже сайт не&nbsp;работает. </p>
+            <p>На&nbsp;сайте я&nbsp;хочу&nbsp;— первое публиковать полезные материалы и&nbsp;новости для тех, кто живет
+                сейчас или когда-нибудь заедет в&nbsp;наш дом.</p>
+            <p>Собрать справочник&nbsp;— хотя&nbsp;бы номер телефонов и&nbsp;типовых ситуаций, типа «У&nbsp;меня
+                протекают трубы&nbsp;— куда позвонить?», или «Хочу поставить счётчик на&nbsp;газ&nbsp;— как это
+                сделать?»</p>
+            <p>В&nbsp;общем, такую энциклопедию-справочник, чтобы можно было найти всю необходимую информацию, если
+                появился вопрос.</p>
+            <p>Кроме того, я&nbsp;попробую еще разнообразить все это статьями связанными с&nbsp;коммуникацией
+                с&nbsp;Управляющей компаний. Например «У&nbsp;нас не&nbsp;моют подъезд&nbsp;— куда и&nbsp;как оформить
+                жалобу» или «Как получить субсидию и&nbsp;компенсацию за&nbsp;коммунальные услуги и&nbsp;кто может
+                на&nbsp;неё рассчитывать»</p>
+            <h2 id="P.S">P.S</h2>
+            <p>Понятно, что все что я&nbsp;сейчас расписал&nbsp;— это моё видение ситуации, но&nbsp;я&nbsp;жду
+                предложения, может вашего видения, как нам сдвинуть управление домом с&nbsp;мёртвой точки,
+                и&nbsp;наконец-то попытаться сделать так, чтобы комфорт чувствовался не&nbsp;только за&nbsp;железной
+                дверью в&nbsp;квартире. Ну&nbsp;и&nbsp;без вашей помощи, поддержки и&nbsp;обратной связи, все это так
+                и&nbsp;останется мыслями на&nbsp;этом сайте. Поэтому, друзья, давайте работать. </p>
+            <p>Вступайте в&nbsp;группу нашего дома&nbsp;— там есть ссылка на&nbsp;соседский чат. Делитесь своим мнение,
+                предложениями. Будем решать вопросы все вместе. Договариваться и&nbsp;принимать решения.</p>
+                <p>
+                    <a href="https://vk.com/parkoviy37a" target="_blank" rel="noopener" class="link-to-demo">Группа Вконтакте</a>
+                </p>    
+        </div>
+        <div class="col-xs-12 col-sm-shrink">
+
+        </div>
+    </div>
+</section>
+<section class="space-out-top-micro-xs space-out-top-nano-lg space-out-bottom-base-xs" id="faq">
+    <h1><a href="faq">Ответы на вопросы соседей</a></h1>
+    <p>Мы&nbsp;понимаем, что жизнь в&nbsp;доме штука сложная, никто никогда не&nbsp;отвечал на&nbsp;наши вопросы, и&nbsp;все бояться спрашивать, что как и&nbsp;откуда берется. Каким должен быть ремонт, что дают общие собрания, кто главный в&nbsp;доме. Как общаться с&nbsp;управляющей компанией и&nbsp;т.д. Сейчас мы&nbsp;вам даём возможность спросить напрямую, а&nbsp;ответ опубликуем публично. </p>
+    <p>
+        <a href="https://forms.gle/HKPTHReuKU1zV2BR8" target="_blank" rel="noopener" class="link-to-demo">Задать вопрос</a>
+    </p>
+    <div class="row faq">
+        <div class="col-xs-12 col-md-6 col-lg-4 col-xl-3">
+            <h5 class="space-out-bottom-nano-xs">Самоуправление в доме</h5>
+            <p><a target="_blank" rel="noopener" href="https://park37a.ru/articles/all/zachem-hodit-na-obschie-sobraniya/">Зачем ходить на общие собрания?</a></p>
+            <p><a target="_blank" rel="noopener" href="https://park37a.ru/articles/all/hochu-uchastvovat-v-upravlenii-domom-no-u-menya-net-mnogo-vremen/">Хочу участвовать в управлении домом, но у меня нет много времени? </a></p>
+
+        </div>
+       <!-- <div class="col-xs-12 col-md-6 col-lg-4 col-xl-3">
+            <h5 class="space-out-bottom-nano-xs">Общение с управляющей компанией</h5>
+            <p><a target="_blank" rel="noopener" href="https://park37a.ru/articles/all/hochu-pozhalovatsya-na-upravlyayuschuyu-kompaniyu-kak-eto-sdelat/">Хочу пожаловаться на управляющую компанию. Как это сделать?</a></p>
+            <p><a target="_blank" rel="noopener" href="https://park37a.ru/articles/all/gde-nayti-dogovor-s-upravlyayuschey-kompaniey/">Где найти договор с управляющей компанией?</a></p>
+        </div>
+
+        <div class="col-xs-12 col-md-6 col-lg-4 col-xl-3">
+            <h5 class="space-out-bottom-nano-xs">Организация труда</h5>
+            <p><a target="_blank" rel="noopener" href="https://toster.ru/q/420931#answer_1013532">Как вы организуете свою работу? Про GitHub</a></p>
+
+        </div>-->
+    </div>
+</section>
+
+  
+
+
+<!--
+<section class="space-out-top-base-xs space-out-top-kilo-lg" id="pokazania">
+    <div class="row row-bottom-sm" style="align-items: baseline;">
+        <div class="col-xs-12 col-sm-shrink">
+            <h1 class="space-in-right-mili-lg"><a href="/shetchiki">Передать показания и оплатить</a></h1>
+        </div>
+    </div>
+    <div class="blogwall space-minus-h-mili-xs space-out-h-zero-sm space-out-top-micro-xs">
+        
+        
+    </div>
+</section>
+
+<section class="space-out-top-kilo-xs space-out-top-mega-lg space-out-bottom-base-xs" id="faq">
+    <h1>У меня есть проблема, хочу её решить.</h1>
+    <p>Я&nbsp;с&nbsp;рождения живу в&nbsp;этом доме, поэтому примерно уже стал понимать, куда в&nbsp;случае чего обращаться. Поэтому вот набор типовых ситуация и&nbsp;способов решения, с&nbsp;которыми я&nbsp;столкнулся сам и&nbsp;мне удалось их&nbsp;решить. </p>
+
+    <div class="row faq">
+        <div class="col-xs-12 col-md-6 col-lg-4 col-xl-3">
+            <h5 class="space-out-bottom-nano-xs">В квартиру</h5>
+            <p><a target="_blank" rel="noopener" href="">Протекают трубы, что делать?</a></p>
+            <p><a target="_blank" rel="noopener" href="">У меня проблемы с электрикой?</a></p>
+            <p><a target="_blank" rel="noopener" href="">Хочу поставить счётчик на газ</a></p>
+            <p><a target="_blank" rel="noopener" href="">Нужно заменить или опломбирвоать счётчик?</a></p>
+
+        </div>
+        <div class="col-xs-12 col-md-6 col-lg-4 col-xl-3">
+            <h5 class="space-out-bottom-nano-xs">В подъезд</h5>
+            <p><a target="_blank" rel="noopener" href="">Стоит ли делать залипающее меню?</a></p>
+
+        </div>
+        <div class="col-xs-12 col-md-6 col-lg-4 col-xl-3">
+            <h5 class="space-out-bottom-nano-xs">Нужно опломбировать счётчик</h5>
+            <p><a target="_blank" rel="noopener" href="">Как вы организуете свою работу? Про GitHub</a></p>
+ </div>
+    </div>
+</section>
+
+
+
+
+
+
+<section class="" id="projects">
+    <div class="row row-bottom-sm row-between-sm">
+        <div class="col-xs-12 col-sm-shrink">
+            <h1 class="space-in-right-mili-lg">Обслуживающие организации</h1>
+
+        </div>
+        <div class="col-xs-12 col-sm-shrink">
+
+        </div>
+    </div>
+
+    <div class="row space-out-top-base-xs">
+        <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+            <a class="flex-grow-sm project-card project-card-link link col-flex-xs" href="">
+                <p class="project-card-icon"><img srcset="/i/icons/icon-bettertext@2x.png 2x" src="/i/icons/icon-bettertext.png" width="48" height="48" alt="bettertext.css"></p>
+                <p class="txt-date space-out-zero-xs">
+        
+                    <span class="badge space-out-right-nano-xs badge-directory">Управляющая компания</span>
+                    
+                    <time class="blogwall-date" datetime="Mon Apr 07 2014 03:00:00 GMT+0300 (+03)">
+                        <span class="blogwall-readable-only">Дата публикации:</span> 07 апреля 2014
+                    </time>
+                </p>
+                <h4 class="project-card-title">Управляющая компания ЖУК</h4>
+                <p class="project-card-details">Отвечает за состояние дома</p>
+
+            </a>
+        </section>
+        <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+            <a class="flex-grow-sm project-card project-card-link link col-flex-xs" href="https://permenergosbyt.ru/">
+                <p class="project-card-icon"><img srcset="/i/icons/icon-bettertext@2x.png 2x" src="/i/icons/icon-bettertext.png" width="48" height="48" alt="bettertext.css"></p>
+                <p class="txt-date space-out-zero-xs">
+        
+                    <span class="badge space-out-right-nano-xs badge-directory">Электроснабжение</span>
+                    
+                    <time class="blogwall-date" datetime="Mon Apr 07 2014 03:00:00 GMT+0300 (+03)">
+                        <span class="blogwall-readable-only">Дата публикации:</span> 07 апреля 2014
+                    </time>
+                </p>
+                <h4 class="project-card-title">Пермьэнергосбыт</h4>
+                <p class="project-card-details">Отвечает за электроснажбжение дома</p>
+
+            </a>
+        </section>
+        <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+            <a class="flex-grow-sm project-card project-card-link link col-flex-xs" href="https://www.novogor.perm.ru/">
+                <p class="project-card-icon"><img srcset="/i/icons/icon-bettertext@2x.png 2x" src="/i/icons/icon-bettertext.png" width="48" height="48" alt="bettertext.css"></p>
+                <p class="txt-date space-out-zero-xs">
+        
+                    <span class="badge space-out-right-nano-xs badge-directory">Водоснабжение</span>
+                    
+                    <time class="blogwall-date" datetime="Mon Apr 07 2014 03:00:00 GMT+0300 (+03)">
+                        <span class="blogwall-readable-only">Дата публикации:</span> 07 апреля 2014
+                    </time>
+                </p>
+                <h4 class="project-card-title">Новогор-Прикамье</h4>
+                <p class="project-card-details">Отвечает за поставку холодной и горячей воды</p>
+
+            </a>
+        </section>
+        <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+            <a class="flex-grow-sm project-card project-card-link link col-flex-xs" href="http://www.permrg.ru/">
+                <p class="project-card-icon"><img srcset="/i/icons/icon-bettertext@2x.png 2x" src="/i/icons/icon-bettertext.png" width="48" height="48" alt="bettertext.css"></p>
+                <p class="txt-date space-out-zero-xs">
+        
+                    <span class="badge space-out-right-nano-xs badge-directory">Газоснабжение</span>
+                    
+                    <time class="blogwall-date" datetime="Mon Apr 07 2014 03:00:00 GMT+0300 (+03)">
+                        <span class="blogwall-readable-only">Дата публикации:</span> 07 апреля 2014
+                    </time>
+                </p>
+                <h4 class="project-card-title">Газпром межрегионгаз</h4>
+                <p class="project-card-details">Отвечает за поставку газа</p>
+
+            </a>
+        </section>
+        <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+            <a class="flex-grow-sm project-card project-card-link link col-flex-xs" href="https://parsec-perm.ru/">
+                <p class="project-card-icon"><img srcset="/i/icons/icon-bettertext@2x.png 2x" src="/i/icons/icon-bettertext.png" width="48" height="48" alt="bettertext.css"></p>
+                <p class="txt-date space-out-zero-xs">
+        
+                    <span class="badge space-out-right-nano-xs badge-directory">Домофон</span>
+                    
+                    <time class="blogwall-date" datetime="Mon Apr 07 2014 03:00:00 GMT+0300 (+03)">
+                        <span class="blogwall-readable-only">Дата публикации:</span> 07 апреля 2014
+                    </time>
+                </p>
+                <h4 class="project-card-title">Домофон Парсек</h4>
+                <p class="project-card-details">Обслуживание домофона</p>
+
+            </a>
+        </section>
+
+    </div>
+</section>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+-->
+    </article>

@@ -1,0 +1,542 @@
+---
+layout: 'homepage'
+title: 'Блог Павла Радькова'
+description: 'Заметки о вёрстке, дизайне, юзабилити, типографике, методологиях и процессах'
+og_image: '/i/og/og-index.png'
+---
+<h1>О нашем доме</h1>
+<section>
+    <h2>Управляющая компания</h2>
+    <h3><a href="http://zhuk-perm.su/">Жилищная управляющая компания</a></h3>
+
+    <div class="row">
+        <div class="col-xs-2">
+            <h4>Контакты</h4>
+            <dl>
+                <dt>Главнй офис: <a href="https://go.2gis.com/z43qj">Лебедева 34</a></dt>
+                <dd><a class="big-phone" href="tel:+73422507182">250–71–82</a></dd>
+            </dl>
+            <h4>Аварийная служба</h4>
+            <p>
+                <a class="big-phone" href="tel:+73422346159">234–61–59</a> <br>
+                <strong>C 8.00 до 17.00</strong></p>
+            <p>
+                <a class="big-phone" href="tel:+73422369120">236–91–20</a> <br>
+                <strong>С 17.00 до 8.00</strong></p>
+
+        </div>
+
+        <div class="col-xs-2">
+            <h4>Приём директора</h4>
+            <dl>
+                <dt>Записаться на приём</dt>
+                <dd><a class="big-phone" href="tel:+73422507182">250–71–82</a></dd>
+                <dt>Директор</dt>
+                <dd>Батькаев Юрий Николаевич</dd>
+                <dt>Приёмный день</dt>
+                <dd><strong>Вторник</strong> с 15.00 до 18.00</dd>
+            </dl>
+        </div>
+
+        <div class="col-xs-2">
+            <h4>Производственно-технический отдел</h4>
+            <a href="tel:+73422293482"><span class="big-phone">229‒34‒82</span></a>
+            <p><a href="https://go.2gis.com/w7bggr">Парковый 3</a></p>
+            <Dl>
+                <dt>Начальник ПТО</dt>
+                <dd>Колобина Галина Михайловна</dd>
+                <dt>Ведущий инжинер ПТО</dt>
+                <dd>Воронкова Елена Владимировна</dd>
+            </Dl>
+        </div>
+        <div class="col-xs-2">
+            <h4>Расчётно-паспортный стол</h4>
+            <a href="tel:+73422293483"><span class="big-phone">229‒34‒83</span></a>
+            <p><a href="https://go.2gis.com/w7bggr">Парковый 3</a></p>
+            <h5>Приёмные дни</h5>
+            <dl>
+                <dt>Понедельник</dt>
+                <dd><strong>Приём: </strong>9.00–17.00<strong><br>Обед: </strong>12.30–13.30</dd>
+                <dt>Среда</dt>
+                <dd><strong>Приём: </strong>11.00–19.00<strong><br>Обед: </strong>14.00–15.00</dd>
+                <dt>Пятница</dt>
+                <dd><strong>Приём: </strong>9.00–12.00</dd>
+                <dt>Неприёмные дни</dt>
+                <dd>Вторник, Четверг</dd>
+            </dl>
+
+        </div>
+        <div class="col-xs-2">
+            <h4>Реквизиты</h4>
+            <dl>
+                <DT>ИНН</DT>
+                <DD>5906858301</DD>
+                <DT>ОГРН</DT>
+                <DD>1145958077176</DD>
+                <DT>Юридический и фактический адрес</DT>
+                <DD><a href="https://go.2gis.com/cdug7w">614107, г.Пермь, ул.Лебедева, 34</a></DD>
+                <DT>Телефон (Факс)</DT>
+                <DD><a href="tel:+73422507182">250-71-82</a></DD>
+                <DT>Электронная почта</DT>
+                <DD><a href="mailto:uk.zuk@mail.ru">uk.zuk@mail.ru</a></DD>
+                <DT></DT>
+                <DD></DD>
+            </dl>
+        </div>
+        <div class="col-xs-2">6</div>
+    </div>
+    <section class="attention-block space-in-mili-xs">
+        <h4>Номера для решения проблем</h4>
+    </section>
+</section>
+
+<section>
+    <h2>Поставщики коммунальных услуг</h2>
+    <section>
+        <h3>Холодная вода и водоотведение</h3>
+        <p>За подачу холодной воды и водоотведение отвчает Новогор Прикамье</p>
+        <h4><a href="https://www.novogor.perm.ru/">Новогор Прикамье</a></h4>
+        <div class="row">
+            <div class="col-xs-2">
+                <H5>Контакты</H5>
+                <dl>
+                    <dt>Сайт:</dt>
+                    <dd><a href="https://www.novogor.perm.ru/">novogor.perm.ru</a> </dd>
+                    <dt>Электронная почта</dt>
+                    <dd><a href="mailto:pismo@novogor.perm.ru">pismo@novogor.perm.ru</a> </dd>
+                    <dt>Офис</dt>
+                    <dd><a href="https://go.2gis.com/5mrkt"></a> Революции, 21а</dd>
+                    <dt>Телефон офиса</dt>
+                    <dd><a href="tel:+73422019530">201-95-30</a>
+                    <br>
+                    <a href="tel:+73422019542">201-95-42</a>
+                    <br>
+                    <a href="tel:+73422019534">201-95-34</a>
+                    <br>
+                    <a href="tel:+73422019531">201-95-31</a>
+                    <br></dd>
+ 
+                </dl>
+
+
+            </div>
+            <div class="col-xs-2 attention-block space-in-mili-xs">
+                <h5>Аварийная служба</h5>
+                <span class="big-phone"><a href="tel:+73422100680">
+                        2100-680</a></span><br>
+                <strong>или короткий номер</strong><br>
+                <span><a class="big-phone" href="tel:068">068</a></span>
+            </div>
+            <div class="col-xs-2">3</div>
+            <div class="col-xs-2">
+                <H5>Действующие тарифы</H5>
+                <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
+                <dl>
+                    <dt>Холодная вода</dt>
+                    <dd><span class="tariffs">33.03 ₽/м³</span></dd>
+                    <dt>Водоотведение</dt>
+                    <dd><span class="tariffs">23.14 ₽/м³</span></dd>
+                </dl>
+            </div>
+            <div class="col-xs-3">
+                <H5>Передать показания</H5>
+                <h6>Через интернет</h6>
+                <p>
+                    <a href="https://lk.novogor.perm.ru/" target="_blank" rel="noopener" class="link-to-demo">Передать
+                        показания</a>
+                </p>
+                <small><a href="https://park37a.ru/pokazania/#water">Инструкция</a></small>
+                <h6>По телефону</h6>
+                <a href="tel:+73422017888"><span class="big-phone">201‒78‒88</span></a>
+            </div>
+
+        </div>
+    </section>
+
+
+
+
+    <section>
+        <h3>Горячая вода и отопление</h3>
+        <p>За подачу горячей воды и отопления отвчает Пермская сетевая компания</p>
+        <h4><a href="https://perm.esplus.ru/">Пермская сетевая компания</a></h4>
+        <div class="row">
+            <div class="col-xs-2">
+                <H5>Контакты</H5>
+                <dl>
+                    <dt>Сайт:</dt>
+                    <dd><a href="https://perm.esplus.ru/">perm.esplus.ru</a></dd>
+                    <dt>Электронная почта</dt>
+                    <dd><a href="mailto:tplus-perm@tplusgroup.ru">tplus-perm@tplusgroup.ru</a></dd>
+                    <dt>Офис</dt>
+                    <dd><a href="https://go.2gis.com/9az6l">Сибирская 67</a></dd>
+                    <dt>Телефон</dt>
+                    <dd><a href="tel:88007001032">8 800 700-10-32</a></dd>
+                </dl>
+
+
+            </div>
+            <div class="col-xs-2 attention-block space-in-mili-xs">
+                <h5>Аварийная служба</h5>
+                <span class="big-phone"><a href="tel:+73422817299">
+                        281-72-99</a></span><br>
+
+            </div>
+            <div class="col-xs-2">3</div>
+            <div class="col-xs-2">
+                <H5>Действующие тарифы</H5>
+                <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
+                <dl>
+                    <dt>Горячая вода</dt>
+                    <dd><span class="tariffs">162.78 ₽/м³</span></dd>
+                    <dt>Отопление</dt>
+                    <dd>Считается по ОДН</dd>
+                    <dd><span class="tariffs"></span></dd>
+                </dl>
+            </div>
+            <div class="col-xs-3">
+                <H5>Передать показания</H5>
+                <h6>Через интернет</h6>
+                <p>
+                    <a href="https://old.krc-prikam.ru/transmit_meter_value" target="_blank" rel="noopener"
+                        class="link-to-demo">Передать
+                        показания</a>
+                </p>
+                <small><a href="">Инструкция</a></small>
+                <h6>По телефону</h6>
+                <strong>На автоответчик</strong><br>
+                <a href="tel:+73422700676"><span class="big-phone">270-06-76</span></a><br>
+                <strong>Оператору</strong><br>
+                <a href="tel:+73422701172"><span class="big-phone">270-11-72</span></a>
+            </div>
+
+        </div>
+    </section>
+    <section>
+        <h3>Газоснабжение</h3>
+        <p>За подачу газа в квартиры отвечает Газпром Межрегионгаз Пермь </p>
+        <h4><a href="http://www.permrg.ru/">Газпром Межрегионгаз Пермь</a></h4>
+        <div class="row">
+            <div class="col-xs-2">
+                <H5>Контакты</H5>
+                <dl>
+                    <dt>Сайт:</dt>
+                    <dd><a href="http://www.permrg.ru/">permrg.ru</a></dd>
+                    <dt>Электронная почта</dt>
+                    <dd><a href="mailto:f059ab191@prg.perm.ru">f059ab191@prg.perm.ru</a></dd>
+                    <dt>Офис</dt>
+                    <dd><a href="https://go.2gis.com/grfwl2">Подлесная, 3а</a></dd>
+                    <dt>Телефон</dt>
+                    <dd><a href="tel:+73422227929">222-79-29</a><br>
+                        <a href="tel:+73422825262">282-52-62</a></dd>
+
+
+                    <dt></dt>
+                    <dd></dd>
+                    <dt></dt>
+                    <dd></dd>
+                </dl>
+
+
+            </div>
+            <div class="col-xs-2 attention-block space-in-mili-xs">
+                <h5>Аварийная служба</h5>
+                <dl>
+                    <dt>C городского</dt>
+                    <dd><span class="big-phone"><a href="tel:04">04</a></span></dd>
+                    <dt>С мобильного</dt>
+                    <dd><span class="big-phone"><a href="tel:04">104</a></span></dd>
+                    <dt>Диспетчерская</dt>
+                    <dd><span class="big-phone"><a href="tel:+73422661111">266-11-11</a></span></dd>
+                </dl>
+
+
+            </div>
+            <div class="col-xs-2">3</div>
+            <div class="col-xs-2">
+                <H5>Действующие тарифы</H5>
+                <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
+                <dl>
+                    <dt>На приготовлене пищи</dt>
+                    <dd><span class="tariffs">6.12 ₽/м³</span></dd>
+                    <dt>На обогрев</dt>
+                    <dd><span class="tariffs">6.12 ₽/м³</span></dd>
+                </dl>
+            </div>
+            <div class="col-xs-3">
+                <H5>Передать показания</H5>
+                <h6>Через интернет</h6>
+                <p>
+                    <a href="https://мойгаз.смородина.онлайн/" target="_blank" rel="noopener"
+                        class="link-to-demo">Передать
+                        показания</a>
+                </p>
+                <small><a href="https://park37a.ru/pokazania/#gas">Инструкция</a></small>
+                <h6>По телефону</h6>
+                <a href="tel:+73422601111"><span class="big-phone">260-11-11</span></a>
+            </div>
+
+        </div>
+    </section>
+    <section>
+        <h3>Электроэнергия</h3>
+        <p>За подачу электричества в квартир отвечает Пермьэнергосбыт </p>
+        <h4><a href="https://permenergosbyt.ru/">Пермьэнергосбыт</a></h4>
+        <div class="row">
+            <div class="col-xs-2">
+                <H5>Контакты</H5>
+                <dl>
+                    <dt>Сайт:</dt>
+                    <dd><a href="https://permenergosbyt.ru/">permenergosbyt.ru</a></dd>
+                    <dt>Электронная почта</dt>
+                    <dd><a href="mailto:Kanc@energos.perm.ru">Kanc@energos.perm.ru</a></dd>
+                    <dt>Офис</dt>
+                    <dd><a href="https://go.2gis.com/vbi5e">Парковый 40а</a></dd>
+                    <dt>Телефон</dt>
+                    <dd><a href="tel:+73422006300">200-63-00</a></dd>
+                    <dt></dt>
+                    <dd></dd>
+                    <dt></dt>
+                    <dd></dd>
+                </dl>
+
+
+            </div>
+            <div class="col-xs-2">2</div>
+            <div class="col-xs-2">3</div>
+            <div class="col-xs-2">
+                <H5>Действующие тарифы</H5>
+                <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
+                <dl>
+                    <dt>Дневной тариф</dt>
+                    <dd><span class="tariffs">4.17 ₽/кВтч</span></dd>
+                    <dt>Ночной тариф</dt>
+                    <dd><span class="tariffs">2,66 ₽/кВтч</span></dd>
+                </dl>
+                <dl>
+                    <dt>Для однотарифных счётчиков</dt>
+                    <dd><span class="tariffs">4.17 ₽/кВтч</span></dd>
+                </dl>
+                <a href="https://permenergosbyt.ru/populations/tarifs_2019_country">Все тарифы</a>
+            </div>
+            <div class="col-xs-3">
+                <H5>Передать показания</H5>
+                <h6>Через интернет</h6>
+                <p>
+                    <a href="https://lk.permenergosbyt.ru/personal/measure_without_auth" target="_blank" rel="noopener"
+                        class="link-to-demo">Передать
+                        показания</a>
+                </p>
+                <small><a href="https://park37a.ru/pokazania/#electricity">Инструкция</a></small>
+                <h6>По телефону</h6>
+                <a href="tel:+73422633633"><span class="big-phone">263-36-33</span></a>
+            </div>
+
+        </div>
+    </section>
+
+    <section>
+        <h3>Капитальный ремонт</h3>
+        <p>За капитальный ремонт отвечает Фонд Капитального ремонта </p>
+        <h4><a href="http://www.fond59.ru/">Фонд капитального ремонта Пермского края</a></h4>
+        <div class="row">
+            <div class="col-xs-2">
+                <H5>Контакты</H5>
+                <dl>
+                    <dt>Сайт:</dt>
+                    <dd><a href="http://www.fond59.ru/">www.fond59.ru</a></dd>
+                    <dt>Электронная почта</dt>
+                    <dd><a href="mailto:info@fond59.ru">info@fond59.ru</a></dd>
+                    <dt>Офис</dt>
+                    <dd><a href="https://go.2gis.com/8ducg">Ленина 66</a></dd>
+                    <dt>Телефон</dt>
+                    <dd><a href="tel:88007006372">8 800 700-63-72</a></dd>
+                </dl>
+
+
+            </div>
+            <div class="col-xs-2">
+                <H5>Способ накопления</H5>
+                <p>Наш дом копит деньги на капитальный ремонт на отдельном счёте, которым управляет УК.</p>
+                <p>Деньги с этого счёта идут только на цели капитального ремонта, и не распределяются на другие дома.
+                </p>
+            </div>
+            <!--<div class="col-xs-2">3</div>-->
+            <div class="col-xs-2">
+                <H5>Действующие тарифы</H5>
+                <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
+                <dl>
+                    <dt>Текущий тариф</dt>
+                    <dd><span class="tariffs">9 ₽/м²</span></dd>
+
+                </dl>
+            </div>
+            <!--
+            <div class="col-xs-3">
+                <H5>Ответы на вопросы</H5>
+
+
+        </div>-->
+    </section>
+    <section>
+        <h3>Вывоз мусора и ТБО</h3>
+        <p>За вывоз мусора отвечет единый региональный оператор Теплоэнерго</p>
+        <h4><a href="http://pkgyp-te.permkrai.ru/">Теплоэнерго</a></h4>
+        <div class="row">
+            <div class="col-xs-2">
+                <H5>Контакты</H5>
+                <dl>
+                    <dt>Сайт:</dt>
+                    <dd><a href="hhttp://pkgyp-te.permkrai.ru/">pkgyp-te.permkrai.ru</a></dd>
+                    <dt>Электронная почта</dt>
+                    <dd><a href="mailto:info@te.permkrai.ru">info@te.permkrai.ru</a></dd>
+                    <dt>Офис</dt>
+                    <dd><a href="https://go.2gis.com/f155uy">Монастырская 4</a></dd>
+                    <dt>Телефон</dt>
+                    <dd><a href="tel:+73422369055">236-90-55</a></dd>
+                </dl>
+
+
+            </div>
+            <!--<div class="col-xs-2">3</div>-->
+            <div class="col-xs-2">
+                <H5>Действующие тарифы</H5>
+                <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
+                <dl>
+                    <dt>Текущий тариф на каждого проживающего</dt>
+                    <dd><span class="tariffs">72,86₽ </span></dd>
+                    <dd><a href="http://pkgyp-te.permkrai.ru/%d1%81-1-%d1%8f%d0%bd%d0%b2%d0%b0%d1%80%d1%8f-2020-%d0%b3%d0%be%d0%b4%d0%b0-%d0%b4%d0%b5%d0%b9%d1%81%d1%82%d0%b2%d1%83%d0%b5%d1%82-%d0%bd%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be/">Подробнее о тарифе</a></dd>
+
+                </dl>
+            </div>
+            <!--
+            <div class="col-xs-3">
+                <H5>Ответы на вопросы</H5>
+
+
+        </div>-->
+    </section>
+
+
+
+</section>
+
+
+
+
+
+
+
+
+<section>
+    <h2>Контролирующие органы</h2>
+</section>
+
+<section>
+    <h2>Экстренные службы</h2>
+
+    <div class="row">
+        <div class="col-xs-3">
+            <h3><a href="https://59.mchs.gov.ru/">Пожарная охрана</a></h3>
+            <dl>
+                <dt>С городского</dt>
+                <dd><span class="big-phone">01</span></dd>
+                <dt>С мобильного</dt>
+                <dd><span class="big-phone">101</span></dd>
+            </dl>
+        </div>
+        <div class="col-xs-3">
+            <h3><a href="https://59.xn--b1aew.xn--p1ai/">Полиция</a></h3>
+            <dl>
+                <dt>С городского</dt>
+                <dd><span class="big-phone">02</span></dd>
+                <dt>С мобильного</dt>
+                <dd><span class="big-phone">102</span></dd>
+            </dl>
+        </div>
+        <div class="col-xs-3">
+            <h3><a href="http://perm-03.ru/">Скорая помощь</a></h3>
+            <dl>
+                <dt>С городского</dt>
+                <dd><span class="big-phone">03</span></dd>
+                <dt>С мобильного</dt>
+                <dd><span class="big-phone">103</span></dd>
+            </dl>
+        </div>
+        <div class="col-xs-3">
+            <h3><a href="http://www.permrg.ru/">Газовая служба</a></h3>
+            <dl>
+                <dt>С городского</dt>
+                <dd><span class="big-phone">04</span></dd>
+                <dt>С мобильного</dt>
+                <dd><span class="big-phone">104</span></dd>
+            </dl>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+<section>
+    <h2>Операторы связи</h2>
+    <div class="row">
+        <div class="col-xs-3">
+            <h3><a href="https://perm.domru.ru/">Дом.ру</a></h3>
+            <span class="badge space-out-right-nano-xs badge-directory">Интернет</span>
+            <span class="badge space-out-right-nano-xs badge-directory">ТВ</span>
+            <span class="badge space-out-right-nano-xs badge-directory">Домашний телефон</span>
+            <p>
+                <dl>
+                    <DT>По вопросам подключения</DT>
+                    <DD><span class="big-phonee"><a href="tel:+73422079337">207-93-37</a></span></DD>
+                    <DT>Ближайший офис</DT>
+                    <DD><a href="https://go.2gis.com/ubdfgs">Парковый проспект, 17</a><br>ТЦ Земляника</DD>
+                </dl>
+            </p>
+        </div>
+        <div class="col-xs-3">
+            <h3><a href="https://perm.beeline.ru/">Билайн</a></h3>
+            <span class="badge space-out-right-nano-xs badge-directory">Интернет</span>
+            <span class="badge space-out-right-nano-xs badge-directory">ТВ</span>
+            <p>
+                <dl>
+                    <DT>По вопросам подключения</DT>
+                    <DD><span class="big-phonee"><a href="tel:88007008000">8 800 700-8000</a></span></DD>
+                    <DT>Ближайший офис</DT>
+                    <DD><a href="https://go.2gis.com/rmq8u">Парковый проспект, 17</a><br>ТЦ Земляника</DD>
+                </dl>
+            </p>
+        </div>
+        <div class="col-xs-3">
+            <h3><a href="https://perm.mts.ru/personal">МТС</a></h3>
+            <span class="badge space-out-right-nano-xs badge-directory">Интернет</span>
+            <span class="badge space-out-right-nano-xs badge-directory">ТВ</span>
+            <p>
+                <dl>
+                    <DT>По вопросам подключения</DT>
+                    <DD><span class="big-phonee"><a href="tel:88002508902">8 800 250-89-02</a></span></DD>
+                    <DT>Ближайший офис</DT>
+                    <DD><a href="https://go.2gis.com/2qnne">Парковый проспект, 17</a><br>ТЦ Земляника</DD>
+                </dl>
+            </p>
+        </div>
+        <div class="col-xs-3">
+            <h3><a href="https://perm.rt.ru/">Ростелеком</a></h3>
+            <span class="badge space-out-right-nano-xs badge-directory">Интернет</span>
+            <span class="badge space-out-right-nano-xs badge-directory">ТВ</span>
+            <p>
+                <dl>
+                    <DT>По вопросам подключения</DT>
+                    <DD><span class="big-phonee"><a href="tel:88001000800">8 800 100-0-800</a></span></DD>
+                    <DT>Ближайший офис</DT>
+                    <DD><a href="https://go.2gis.com/jpdbd">Ленина, 68</a></DD>
+                </dl>
+            </p>
+        </div>
+    </div>
+</section>
