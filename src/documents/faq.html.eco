@@ -1,17 +1,18 @@
 ---
 layout: 'homepage'
-title: 'Блог Павла Радькова'
-description: 'Заметки о вёрстке, дизайне, юзабилити, типографике, методологиях и процессах'
-og_image: '/i/og/og-index.png'
+title: 'Ответы на вопросы соседей • Парковый 37а'
+description: 'Пытаемся помочь найти ответы на неочевидные вопросы по жизни в доме'
+keywords: 'Парковый 37а, Пермь, соседи, дом, тсж, сообщество жильцов, FAQ, задать вопрос'
+creator: '@dmitriyfourier'
+og_title: Ответы на вопросы соседей • Парковый 37а
+og_desc: Пытаемся помочь найти ответы на неочевидные вопросы по жизни в доме
+og_img: og-faq.png
+og_type: website
 ---
-
 
     <section class="space-out-top-micro-xs space-out-top-nano-lg space-out-bottom-base-xs" id="faq">
 <h1>Ответы на вопросы соседей</h1>
 <p>Мы&nbsp;понимаем, что жизнь в&nbsp;доме штука сложная, никто никогда не&nbsp;отвечал на&nbsp;наши вопросы, и&nbsp;все бояться спрашивать, что как и&nbsp;откуда берется. Каким должен быть ремонт, что дают общие собрания, кто главный в&nbsp;доме. Как общаться с&nbsp;управляющей компанией и&nbsp;т.д. Сейчас мы&nbsp;вам даём возможность спросить напрямую, а&nbsp;ответ опубликуем публично. </p>
-<p>
-    <a href="https://forms.gle/HKPTHReuKU1zV2BR8" target="_blank" rel="noopener" class="link-to-demo">Задать вопрос</a>
-</p>
 <div class="row faq">
     <div class="col-xs-12 col-md-6 col-lg-4 col-xl-3">
         <h5 class="space-out-bottom-nano-xs">Самоуправление в доме</h5>
@@ -32,4 +33,8 @@ og_image: '/i/og/og-index.png'
 
     </div>-->
 </div>
+<h2 id="ask">Задайте свой вопрос</h2>
+<p>
+    <script src="https://yastatic.net/q/forms-frontend-ext/_/embed.js"></script><iframe src="https://forms.yandex.ru/u/5e31b5c62d838a00e3619a92/?iframe=1" frameborder="0" name="ya-form-5e31b5c62d838a00e3619a92" width="100%"></iframe>
+</p>
 </section>

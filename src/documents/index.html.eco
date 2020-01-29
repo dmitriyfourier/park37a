@@ -1,9 +1,15 @@
 ---
 layout: 'homepage'
-title: 'Блог Павла Радькова'
-description: 'Заметки о вёрстке, дизайне, юзабилити, типографике, методологиях и процессах'
-og_image: '/i/og/og-index.png'
+title: 'Парковый 37а • Пермь'
+description: 'Сайт сообщества соседей дома по адресу Проспект Парковый 37а'
+keywords: 'Парковый 37а, Пермь, соседи, дом, тсж, сообщество жильцов'
+creator: '@dmitriyfourier'
+og_title: Парковый 37а • Пермь
+og_desc: Сайт сообщества соседей дома по адресу Проспект Парковый 37а
+og_img: og-main.png
+og_type: website
 ---
+
 <article class="flex-grow-xs" role="main">
         <header class="row row-middle-md space-out-bottom-mili-xs space-out-bottom-nano-lg">
     <div class="col-xs-12 col-md">
@@ -18,32 +24,6 @@ og_image: '/i/og/og-index.png'
         </nav>
     </div>
 </header>
-<hr>
-<section class="blogwall-item blogwall-gridcell blogwall-fauxlink col-flex-sm" id="projects">
-
-    
-    <div class="row row-bottom-sm row-between-sm">
-        <div class="col-xs-12 col-sm-shrink">
-            <h1 class="space-in-right-mili-lg"><a href="https://vk.com/sobranieodn">Общее собрание по вопросам ОДН</a></h1>
-            <h2>Повестка:</h2>
-            <p>❶ Выбор председателя и секретаря собрания</p>
-
-            <p>❷ Об Оплате коммунальных услуг согласно общедомового прибора учёта: </p>
-            <ul>
-                <li>— Электроэнергия,</li>
-                <li>— горячая и холодная вода</li>
-                <li>— водоотведение.</li>
-            </ul>
-            <p>
-                <a href="https://vk.com/sobranieodn" target="_blank" rel="noopener" class="link-to-demo">Принять участие</a>
-            </p>  
-
-        </div>
-        <div class="col-xs-12 col-sm-shrink">
-
-        </div>
-    </div>
-</section>
 <hr>
 <section class="" id="projects">
     <div class="row row-bottom-sm row-between-sm">
@@ -161,7 +141,7 @@ og_image: '/i/og/og-index.png'
     <h1><a href="faq">Ответы на вопросы соседей</a></h1>
     <p>Мы&nbsp;понимаем, что жизнь в&nbsp;доме штука сложная, никто никогда не&nbsp;отвечал на&nbsp;наши вопросы, и&nbsp;все бояться спрашивать, что как и&nbsp;откуда берется. Каким должен быть ремонт, что дают общие собрания, кто главный в&nbsp;доме. Как общаться с&nbsp;управляющей компанией и&nbsp;т.д. Сейчас мы&nbsp;вам даём возможность спросить напрямую, а&nbsp;ответ опубликуем публично. </p>
     <p>
-        <a href="https://forms.gle/HKPTHReuKU1zV2BR8" target="_blank" rel="noopener" class="link-to-demo">Задать вопрос</a>
+        <a href="/faq/#ask" target="_blank" rel="noopener" class="link-to-demo">Задать вопрос</a>
     </p>
     <div class="row faq">
         <div class="col-xs-12 col-md-6 col-lg-4 col-xl-3">

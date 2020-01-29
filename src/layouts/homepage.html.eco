@@ -21,15 +21,9 @@
     <!-- Favicon -->
     <%- @partial('favicon') %>
 
-    <!-- Feeds -->
-    <%- @partial('feeds') %>
-
     <!-- Social -->
     <link rel="canonical" href="<%= @site.canonicalUrl %><%= @document.url %>">
-    <meta property="fb:pages" content="297287297277384" />
     <%- @partial('opengraph') %>
-    <%- @partial('twittercard') %>
-    <%- @partial('googleAnalytics') %>
 </head>
 <body class="global-maw col-flex-xs space-in-mili-xs space-in-base-sm space-in-wide-kilo-lg">
     <%- @partial('menu') %>
@@ -53,7 +47,6 @@
         <%- @partial('footer') %>
     <% end %>
     <%- @partial('docpadscripts') %>
-    <%- @partial('disqusscripts') %>
     <%- @partial('yandexmetrika') %>
     <%- @partial('upup') %>
     <%- @partial('offlinejs') %>

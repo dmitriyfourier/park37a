@@ -197,12 +197,12 @@ docpadConfig = {
 		ghpages:
 			templateData:
 				site:
-					url: 'http://park37a.ru'
+					url: 'https://park37a.ru'
 
 		development:
 			templateData:
 				site:
-					url: 'http://localhost:9778'
+					url: 'https://park37a.ru'
 
 					# The website's scripts
 					scripts: [

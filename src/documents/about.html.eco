@@ -1,16 +1,53 @@
 ---
 layout: 'homepage'
-title: 'Блог Павла Радькова'
-description: 'Заметки о вёрстке, дизайне, юзабилити, типографике, методологиях и процессах'
-og_image: '/i/og/og-index.png'
+title: 'О доме • Парковый 37а'
+description: 'Справочник по организациям обслуживающим дом. Номера телефонов, и адреса.'
+keywords: 'Парковый 37а, Пермь, соседи, дом, тсж, сообщество жильцов'
+creator: '@dmitriyfourier'
+og_title: О доме • Парковый 37а
+og_desc: Справочник по организациям обслуживающим дом. Номера телефонов, и адреса.
+og_img: og-about.png
+og_type: website
 ---
-<h1>О нашем доме</h1>
+<section>
+    <h1>О нашем доме</h1>
+   <!--<div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1 ">
+            <h2></h2>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1 ">
+            <p><strong>Поставщики КУ</strong></p>
+            <p><a href="">Новогор Прикамье</a></p>
+            <p><a href="">Пермская сетевая компания</a></p>
+            <p><a href="">Газпром Межрегионгаз Пермь</a></p>
+            <p><a href="">Пермьэнергосбыт</a></p>
+            <p><a href="">Фонд капитального ремонта </a></p>
+            <p><a href="">Теплоэнерго</a></p>
+            <p><a href="">Домофон-Парсек</a></p>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+            <p><strong>Контролирующие органы</strong></p>
+
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+            <h2></h2>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+            <h2></h2>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1 col-first-xs">
+            <h2></h2>
+        </div>
+    </div>-->
+
+</section>
+
 <section>
     <h2>Управляющая компания</h2>
     <h3><a href="http://zhuk-perm.su/">Жилищная управляющая компания</a></h3>
 
     <div class="row">
-        <div class="col-xs-2">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
             <h4>Контакты</h4>
             <dl>
                 <dt>Главнй офис: <a href="https://go.2gis.com/z43qj">Лебедева 34</a></dt>
@@ -26,7 +63,7 @@ og_image: '/i/og/og-index.png'
 
         </div>
 
-        <div class="col-xs-2">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
             <h4>Приём директора</h4>
             <dl>
                 <dt>Записаться на приём</dt>
@@ -38,7 +75,7 @@ og_image: '/i/og/og-index.png'
             </dl>
         </div>
 
-        <div class="col-xs-2">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
             <h4>Производственно-технический отдел</h4>
             <a href="tel:+73422293482"><span class="big-phone">229‒34‒82</span></a>
             <p><a href="https://go.2gis.com/w7bggr">Парковый 3</a></p>
@@ -49,7 +86,7 @@ og_image: '/i/og/og-index.png'
                 <dd>Воронкова Елена Владимировна</dd>
             </Dl>
         </div>
-        <div class="col-xs-2">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
             <h4>Расчётно-паспортный стол</h4>
             <a href="tel:+73422293483"><span class="big-phone">229‒34‒83</span></a>
             <p><a href="https://go.2gis.com/w7bggr">Парковый 3</a></p>
@@ -66,7 +103,7 @@ og_image: '/i/og/og-index.png'
             </dl>
 
         </div>
-        <div class="col-xs-2">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
             <h4>Реквизиты</h4>
             <dl>
                 <DT>ИНН</DT>
@@ -83,13 +120,63 @@ og_image: '/i/og/og-index.png'
                 <DD></DD>
             </dl>
         </div>
-        <div class="col-xs-2">6</div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+            <h4>Текущий тариф</h4>
+            <dl>
+                <dt>На содержание и текущий ремонт</dt>
+                <dd><span class="tariffs">25.35 ₽/м²</span></dd>
+            </dl>
+            <p>
+                <a href="http://web2.vzljot-ural.ru/vd/Login.aspx" target="_blank" rel="noopener"
+                    class="link-to-demo">Посмотреть ОДПУ</a>
+            </p>
+            <p><strong>Логин:</strong> guk <br><strong>Пароль:</strong> gukgukguk</p>
+        </div>
     </div>
     <section class="attention-block space-in-mili-xs">
         <h4>Номера для решения проблем</h4>
+        <p>Эти номера были размещены на стенде в офисе УК по Адресу проспект Парковый 3</p>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+                <h5>Дезинсекция подвалов</h5>
+                <dl>
+                    <dt>Приём заявок</dt>
+                    <dd><a href="tel:+73422942884"><span class="big-phone">294-28-84</span></a></dd>
+                </dl>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xlg-1">
+                <h5>Уборка и ремонт мусоропроводов</h5>
+                <dl>
+                    <dt>Приём заявок</dt>
+                    <dd><a href="tel:89028326647"><span class="big-phone">8 902 832-66-47</span></a></dd>
+                    <dd><a href="tel:+73422401705"><span class="big-phone">240-17-05</span></a></dd>
+                    <dt>Исполнитель:</dt>
+                    <dd>ООО «Аавтосан»</dd>
+                </dl>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xlg-1">
+                <h5>Уборка подъездов и территории</h5>
+                <dl>
+                    <dt>Приём заявок</dt>
+                    <dd><a href="tel:+79197125721"><span class="big-phone">8 919 712-57-21</span></a></dd>
+                    <dt>Исполнитель:</dt>
+                    <dd>ИП Кайзер М.В.</dd>
+                </dl>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xlg-1">
+                <h5>Техническое обслуживание</h5>
+                <dl>
+                    <dt>Приём заявок</dt>
+                    <dd><a href="tel:89082643159"><span class="big-phone">8 908 264-31-59</span></a></dd>
+                    <dd><a href="tel:+73422346159"><span class="big-phone">234-61-59</span></a></dd>
+                    <dt>Исполнитель:</dt>
+                    <dd>Слесарь, Электрик</dd>
+                </dl>
+            </div>
+        </div>
     </section>
 </section>
-
+<hr>
 <section>
     <h2>Поставщики коммунальных услуг</h2>
     <section>
@@ -97,7 +184,7 @@ og_image: '/i/og/og-index.png'
         <p>За подачу холодной воды и водоотведение отвчает Новогор Прикамье</p>
         <h4><a href="https://www.novogor.perm.ru/">Новогор Прикамье</a></h4>
         <div class="row">
-            <div class="col-xs-2">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Контакты</H5>
                 <dl>
                     <dt>Сайт:</dt>
@@ -108,27 +195,17 @@ og_image: '/i/og/og-index.png'
                     <dd><a href="https://go.2gis.com/5mrkt"></a> Революции, 21а</dd>
                     <dt>Телефон офиса</dt>
                     <dd><a href="tel:+73422019530">201-95-30</a>
-                    <br>
-                    <a href="tel:+73422019542">201-95-42</a>
-                    <br>
-                    <a href="tel:+73422019534">201-95-34</a>
-                    <br>
-                    <a href="tel:+73422019531">201-95-31</a>
-                    <br></dd>
- 
+                        <br>
+                        <a href="tel:+73422019542">201-95-42</a>
+                        <br>
+                        <a href="tel:+73422019534">201-95-34</a>
+                        <br>
+                        <a href="tel:+73422019531">201-95-31</a>
+                        <br></dd>
+
                 </dl>
-
-
             </div>
-            <div class="col-xs-2 attention-block space-in-mili-xs">
-                <h5>Аварийная служба</h5>
-                <span class="big-phone"><a href="tel:+73422100680">
-                        2100-680</a></span><br>
-                <strong>или короткий номер</strong><br>
-                <span><a class="big-phone" href="tel:068">068</a></span>
-            </div>
-            <div class="col-xs-2">3</div>
-            <div class="col-xs-2">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Действующие тарифы</H5>
                 <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
                 <dl>
@@ -149,10 +226,21 @@ og_image: '/i/og/og-index.png'
                 <h6>По телефону</h6>
                 <a href="tel:+73422017888"><span class="big-phone">201‒78‒88</span></a>
             </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1"></div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1 attention-block space-in-mili-xs">
+                <h5>Аварийная служба</h5>
+                <span class="big-phone"><a href="tel:+73422100680">
+                        2100-680</a></span><br>
+                <strong>или короткий номер</strong><br>
+                <span><a class="big-phone" href="tel:068">068</a></span>
+            </div>
 
         </div>
-    </section>
 
+
+
+    </section>
+    <hr>
 
 
 
@@ -161,7 +249,7 @@ og_image: '/i/og/og-index.png'
         <p>За подачу горячей воды и отопления отвчает Пермская сетевая компания</p>
         <h4><a href="https://perm.esplus.ru/">Пермская сетевая компания</a></h4>
         <div class="row">
-            <div class="col-xs-2">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Контакты</H5>
                 <dl>
                     <dt>Сайт:</dt>
@@ -176,14 +264,7 @@ og_image: '/i/og/og-index.png'
 
 
             </div>
-            <div class="col-xs-2 attention-block space-in-mili-xs">
-                <h5>Аварийная служба</h5>
-                <span class="big-phone"><a href="tel:+73422817299">
-                        281-72-99</a></span><br>
-
-            </div>
-            <div class="col-xs-2">3</div>
-            <div class="col-xs-2">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Действующие тарифы</H5>
                 <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
                 <dl>
@@ -194,6 +275,7 @@ og_image: '/i/og/og-index.png'
                     <dd><span class="tariffs"></span></dd>
                 </dl>
             </div>
+
             <div class="col-xs-3">
                 <H5>Передать показания</H5>
                 <h6>Через интернет</h6>
@@ -209,15 +291,24 @@ og_image: '/i/og/og-index.png'
                 <strong>Оператору</strong><br>
                 <a href="tel:+73422701172"><span class="big-phone">270-11-72</span></a>
             </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">3</div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1 attention-block space-in-mili-xs">
+                <h5>Аварийная служба</h5>
+                <span class="big-phone"><a href="tel:+73422817299">
+                        281-72-99</a></span><br>
+
+            </div>
+
 
         </div>
     </section>
+    <hr>
     <section>
         <h3>Газоснабжение</h3>
         <p>За подачу газа в квартиры отвечает Газпром Межрегионгаз Пермь </p>
         <h4><a href="http://www.permrg.ru/">Газпром Межрегионгаз Пермь</a></h4>
         <div class="row">
-            <div class="col-xs-2">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Контакты</H5>
                 <dl>
                     <dt>Сайт:</dt>
@@ -229,31 +320,11 @@ og_image: '/i/og/og-index.png'
                     <dt>Телефон</dt>
                     <dd><a href="tel:+73422227929">222-79-29</a><br>
                         <a href="tel:+73422825262">282-52-62</a></dd>
-
-
-                    <dt></dt>
-                    <dd></dd>
-                    <dt></dt>
-                    <dd></dd>
                 </dl>
 
 
             </div>
-            <div class="col-xs-2 attention-block space-in-mili-xs">
-                <h5>Аварийная служба</h5>
-                <dl>
-                    <dt>C городского</dt>
-                    <dd><span class="big-phone"><a href="tel:04">04</a></span></dd>
-                    <dt>С мобильного</dt>
-                    <dd><span class="big-phone"><a href="tel:04">104</a></span></dd>
-                    <dt>Диспетчерская</dt>
-                    <dd><span class="big-phone"><a href="tel:+73422661111">266-11-11</a></span></dd>
-                </dl>
-
-
-            </div>
-            <div class="col-xs-2">3</div>
-            <div class="col-xs-2">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Действующие тарифы</H5>
                 <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
                 <dl>
@@ -263,6 +334,7 @@ og_image: '/i/og/og-index.png'
                     <dd><span class="tariffs">6.12 ₽/м³</span></dd>
                 </dl>
             </div>
+
             <div class="col-xs-3">
                 <H5>Передать показания</H5>
                 <h6>Через интернет</h6>
@@ -275,15 +347,30 @@ og_image: '/i/og/og-index.png'
                 <h6>По телефону</h6>
                 <a href="tel:+73422601111"><span class="big-phone">260-11-11</span></a>
             </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">3</div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1 attention-block space-in-mili-xs">
+                <h5>Аварийная служба</h5>
+                <dl>
+                    <dt>C городского</dt>
+                    <dd><span class="big-phone"><a href="tel:04">04</a></span></dd>
+                    <dt>С мобильного</dt>
+                    <dd><span class="big-phone"><a href="tel:04">104</a></span></dd>
+                    <dt>Диспетчерская</dt>
+                    <dd><span class="big-phone"><a href="tel:+73422661111">266-11-11</a></span></dd>
+                </dl>
+
+
+            </div>
 
         </div>
     </section>
+    <hr>
     <section>
         <h3>Электроэнергия</h3>
         <p>За подачу электричества в квартир отвечает Пермьэнергосбыт </p>
         <h4><a href="https://permenergosbyt.ru/">Пермьэнергосбыт</a></h4>
         <div class="row">
-            <div class="col-xs-2">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Контакты</H5>
                 <dl>
                     <dt>Сайт:</dt>
@@ -294,17 +381,12 @@ og_image: '/i/og/og-index.png'
                     <dd><a href="https://go.2gis.com/vbi5e">Парковый 40а</a></dd>
                     <dt>Телефон</dt>
                     <dd><a href="tel:+73422006300">200-63-00</a></dd>
-                    <dt></dt>
-                    <dd></dd>
-                    <dt></dt>
-                    <dd></dd>
                 </dl>
 
 
             </div>
-            <div class="col-xs-2">2</div>
-            <div class="col-xs-2">3</div>
-            <div class="col-xs-2">
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Действующие тарифы</H5>
                 <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
                 <dl>
@@ -331,16 +413,18 @@ og_image: '/i/og/og-index.png'
                 <h6>По телефону</h6>
                 <a href="tel:+73422633633"><span class="big-phone">263-36-33</span></a>
             </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">2</div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">3</div>
 
         </div>
     </section>
-
+    <hr>
     <section>
         <h3>Капитальный ремонт</h3>
         <p>За капитальный ремонт отвечает Фонд Капитального ремонта </p>
         <h4><a href="http://www.fond59.ru/">Фонд капитального ремонта Пермского края</a></h4>
         <div class="row">
-            <div class="col-xs-2">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Контакты</H5>
                 <dl>
                     <dt>Сайт:</dt>
@@ -355,14 +439,7 @@ og_image: '/i/og/og-index.png'
 
 
             </div>
-            <div class="col-xs-2">
-                <H5>Способ накопления</H5>
-                <p>Наш дом копит деньги на капитальный ремонт на отдельном счёте, которым управляет УК.</p>
-                <p>Деньги с этого счёта идут только на цели капитального ремонта, и не распределяются на другие дома.
-                </p>
-            </div>
-            <!--<div class="col-xs-2">3</div>-->
-            <div class="col-xs-2">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Действующие тарифы</H5>
                 <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
                 <dl>
@@ -371,19 +448,25 @@ og_image: '/i/og/og-index.png'
 
                 </dl>
             </div>
-            <!--
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+                <H5>Способ накопления</H5>
+                <p>Наш дом копит деньги на капитальный ремонт на отдельном счёте, которым управляет УК.</p>
+                <p>Деньги с этого счёта идут только на цели капитального ремонта, и не распределяются на другие дома.
+                </p>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">3</div>
+
             <div class="col-xs-3">
                 <H5>Ответы на вопросы</H5>
-
-
-        </div>-->
+            </div>
     </section>
+    <hr>
     <section>
         <h3>Вывоз мусора и ТБО</h3>
         <p>За вывоз мусора отвечет единый региональный оператор Теплоэнерго</p>
         <h4><a href="http://pkgyp-te.permkrai.ru/">Теплоэнерго</a></h4>
         <div class="row">
-            <div class="col-xs-2">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Контакты</H5>
                 <dl>
                     <dt>Сайт:</dt>
@@ -398,25 +481,27 @@ og_image: '/i/og/og-index.png'
 
 
             </div>
-            <!--<div class="col-xs-2">3</div>-->
-            <div class="col-xs-2">
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
                 <H5>Действующие тарифы</H5>
                 <span class="badge space-out-right-nano-xs badge-directory">с 01.07.2019</span>
                 <dl>
                     <dt>Текущий тариф на каждого проживающего</dt>
                     <dd><span class="tariffs">72,86₽ </span></dd>
-                    <dd><a href="http://pkgyp-te.permkrai.ru/%d1%81-1-%d1%8f%d0%bd%d0%b2%d0%b0%d1%80%d1%8f-2020-%d0%b3%d0%be%d0%b4%d0%b0-%d0%b4%d0%b5%d0%b9%d1%81%d1%82%d0%b2%d1%83%d0%b5%d1%82-%d0%bd%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be/">Подробнее о тарифе</a></dd>
+                    <dd><a
+                            href="http://pkgyp-te.permkrai.ru/%d1%81-1-%d1%8f%d0%bd%d0%b2%d0%b0%d1%80%d1%8f-2020-%d0%b3%d0%be%d0%b4%d0%b0-%d0%b4%d0%b5%d0%b9%d1%81%d1%82%d0%b2%d1%83%d0%b5%d1%82-%d0%bd%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be/">Подробнее
+                            о тарифе</a></dd>
 
                 </dl>
             </div>
-            <!--
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">3</div>
             <div class="col-xs-3">
                 <H5>Ответы на вопросы</H5>
 
 
-        </div>-->
+            </div>
     </section>
-
+    <hr>
 
 
 </section>
@@ -430,6 +515,32 @@ og_image: '/i/og/og-index.png'
 
 <section>
     <h2>Контролирующие органы</h2>
+
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+            <p>Эти органы отвечают, за контроль коммунальных служб и управляющей компании.</p>
+            <p>Если вы предпринияли попытки решить вопрос с коммунальщиками и управлющей компании на прямую, вы можете
+                обратиться в эти службы за консультацией или подать жалобу на нарушения.</p>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+            <h3><a href="https://iggn.permkrai.ru/">Государственная жилищная инспекция</a> [ГЖИ]</h3>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+            <h3><a href="https://www.gorodperm.ru/actions/jkh/department_jkh_Perm/">Департамент ЖКХ Администрации
+                    Перми</a></h3>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+            <h3><a href="http://raion.gorodperm.ru/dzerzhinskij/">Администрация Дзержинского района</a></h3>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+            <h3><a href="https://www.59fbuz.ru/">Центр гигиены и эпиземиологии</a> [СЭС]</h3>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xlg-1">
+            <h3><a href="http://59.rospotrebnadzor.ru/">Роспотребнадзор</a></h3>
+        </div>
+    </div>
+
+
 </section>
 
 <section>

@@ -1,8 +1,13 @@
 ---
 layout: 'homepage'
-title: 'Блог Павла Радькова'
-description: 'Заметки о вёрстке, дизайне, юзабилити, типографике, методологиях и процессах'
-og_image: '/i/og/og-index.png'
+title: 'Новым соседям • Парковый 37а'
+description: 'Справочник для тех, кто только-только становится нашим соседом'
+keywords: 'Парковый 37а, Пермь, соседи, дом, тсж, сообщество жильцов'
+creator: '@dmitriyfourier'
+og_title: Новым соседям • Парковый 37а
+og_desc: Справочник для тех, кто только-только становится нашим соседом
+og_img: og-new-neibour.png
+og_type: website
 ---
 <article class="flex-grow-xs" role="main">
     <h1>Добро пожаловать</h1>

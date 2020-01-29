@@ -1,8 +1,13 @@
 ---
 layout: 'homepage'
-title: 'Блог Павла Радькова'
-description: 'Заметки о вёрстке, дизайне, юзабилити, типографике, методологиях и процессах'
-og_image: '/i/og/og-index.png'
+title: 'Передать показания счётчиков • Парковый 37а'
+description: 'Способы передать показания счётчиков по нашему дому'
+keywords: 'Парковый 37а, Пермь, соседи, дом, тсж, сообщество жильцов, FAQ, задать вопрос'
+creator: '@dmitriyfourier'
+og_title: Передать показания счётчиков • Парковый 37а
+og_desc: Способы передать показания счётчиков по нашему дому
+og_img: og-pokazania.png
+og_type: website
 ---
 <article class="flex-grow-xs" role="main">
         <header class="row row-middle-md space-out-bottom-mili-xs space-out-bottom-nano-lg">
