@@ -311,7 +311,7 @@ module.exports = (grunt) ->
 			src: ['**/*']
 
 		'ftp-deploy':
-			build:
+			build:y
 				auth:
 					host: 'park37a.ru'
 					port: 21
