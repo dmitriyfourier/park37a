@@ -306,7 +306,7 @@ module.exports = (grunt) ->
 		'gh-pages':
 			options:
 				base: 'out'
-				branch: 'gh-pages'
+				branch: 'master'
 				repo: 'https://github.com/dmitriyfourier/park37a.github.io.git'
 			src: ['**/*']
 

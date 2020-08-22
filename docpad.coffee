@@ -143,9 +143,6 @@ docpadConfig = {
 			default:
 				collection: 'articles'
 				url: '/newrss.xml' # optional, this is the default
-		ghpages:
-            deployRemote: 'deploy'
-            deployBranch: 'gh-pages'
 		sitemap:
 			cachetime: 600000
 			changefreq: 'weekly'
