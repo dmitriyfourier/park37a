@@ -143,6 +143,9 @@ docpadConfig = {
 			default:
 				collection: 'articles'
 				url: '/newrss.xml' # optional, this is the default
+		ghpages:
+            deployRemote: 'deploy'
+            deployBranch: 'gh-pages'
 		sitemap:
 			cachetime: 600000
 			changefreq: 'weekly'
@@ -202,7 +205,7 @@ docpadConfig = {
 		development:
 			templateData:
 				site:
-					url: 'https://park37a.ru'
+					url: 'http://localhost:9778'
 
 					# The website's scripts
 					scripts: [
