@@ -1,5 +1,0 @@
-# robotstxt.org/
-
-User-agent: *
-
-Host: park37a.ru
