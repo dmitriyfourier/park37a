@@ -57,7 +57,7 @@ module.exports = (grunt) ->
 
 				processors: [
 					require('pixrem')() # add fallbacks for rem units
-					require('autoprefixer-core')({browsers: [
+					require('autoprefixer')({browsers: [
 						'Android 2.3'
 						'Android >= 4'
 						'Chrome >= 20'
@@ -280,38 +280,18 @@ module.exports = (grunt) ->
 					]
 				src: [
 						'out/index.html'
-						'out/2012/index.html'
-						'out/2013/index.html'
-						'out/2014/index.html'
-						'out/2016/index.html'
-						'out/demo/index.html'
-						'out/tags/index.html'
-						'out/search/index.html'
 					]
 				dest: 'out/ui/homepage.css'
-			articles:
-				options:
-					timeout: 5000
-					ignore: [
-						/\.likely([-a-zA-Z0-9_:>\*\s\[=\]])*/
-						/\.offline-ui([-a-zA-Z0-9_:>\*\s\[=\]])*/
-					]
-					stylesheets: [
-						'../../ui/framework.css'
-					]
-				files: 'out/ui/framework.css': [
-						'out/2017/*/*.html'
-					]
 
 		'gh-pages':
 			options:
 				base: 'out'
-				branch: 'master'
+				branch: 'main'
 				repo: 'https://github.com/dmitriyfourier/park37a.github.io.git'
 			src: ['**/*']
 
 		'ftp-deploy':
-			build:y
+			build:
 				auth:
 					host: 'park37a.ru'
 					port: 21
@@ -327,11 +307,11 @@ module.exports = (grunt) ->
 		pagespeed:
 			options:
 				nokey: true
-				url: "https://park37a.ru"
+				url: "http://park37a.ru"
 				locale: "ru_RU"
 			prod:
 				options:
-					url: "https://park37a.ru"
+					url: "http://park37a.ru"
 					strategy: "desktop"
 					threshold: 90
 			paths:
@@ -345,27 +325,7 @@ module.exports = (grunt) ->
 			ogimages:
 				options:
 					urls: [
-						'http://127.0.0.1:8080/2017/local_variables/'
-						'http://127.0.0.1:8080/2016/code_review/'
-						'http://127.0.0.1:8080/2014/web-fonts_license/'
-						'http://127.0.0.1:8080/2014/free_substitution_for_helvetica_neue/'
-						'http://127.0.0.1:8080/2014/deploy_docpad_site_to_github_pages/'
-						'http://127.0.0.1:8080/2014/markdown_cheatsheet/'
-						'http://127.0.0.1:8080/2014/designer-superstar/'
-						'http://127.0.0.1:8080/2014/capture_screen_to_gif/'
-						'http://127.0.0.1:8080/2014/font-weight_bolder/'
-						'http://127.0.0.1:8080/2014/mailto_parameters/'
-						'http://127.0.0.1:8080/2014/visited_link_on_hover/'
-						'http://127.0.0.1:8080/2014/negation_css_selector/'
-						'http://127.0.0.1:8080/2013/lists_and_floats/'
-						'http://127.0.0.1:8080/2012/pointer-events/'
-						'http://127.0.0.1:8080/2012/chrome_dev_tools/'
-						'http://127.0.0.1:8080/2012/crosswise/'
-						'http://127.0.0.1:8080/2012/mobile_developing/'
-						'http://127.0.0.1:8080/2012/photoshop_next_and_previous_layer/'
-						'http://127.0.0.1:8080/2012/html-entities_and_utf_codes/'
-						'http://127.0.0.1:8080/2012/photoshop_new_layer_based_slice/'
-						'http://127.0.0.1:8080/2012/autocomplete/'
+
 					]
 					sizes: ['1500x788']
 					dest: 'src/raw/i/og'

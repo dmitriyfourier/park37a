@@ -2,11 +2,11 @@
     <channel>
         <title><![CDATA[Парковый 37а]]></title>
         <description><![CDATA[Сообщество соседей дома по адресу Проспект Парковый 37а.]]></description>
-        <link>https://park37a.ru</link>
+        <link>http://localhost:9778</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2020 14:48:46 GMT</lastBuildDate>
-        <atom:link href="https://park37a.ru/newrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Jun 2021 20:01:55 GMT</lastBuildDate>
+        <atom:link href="http://localhost:9778/newrss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Дмитрий Фурье]]></author>
-        <pubDate>Sat, 22 Aug 2020 14:48:42 GMT</pubDate>
+        <pubDate>Sun, 06 Jun 2021 20:01:50 GMT</pubDate>
     </channel>
 </rss>
