@@ -16,11 +16,7 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="/ui/homepage.css">
-    <style >html.wait {
-	cursor: wait !important;
-	opacity: 0;
-	transition: opacity 0.5s ease;
-}</style>
+    
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -37,8 +33,8 @@
     <meta property="og:title" content="Новым соседям • Парковый 37а" />
 <meta property="og:description" content="Справочник для тех, кто только-только становится нашим соседом" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:9778"/>
-<meta property="og:image" content="http://localhost:9778/i/og/og-new-neibour.png"> 
+<meta property="og:url" content="https://park37a.ru"/>
+<meta property="og:image" content="https://park37a.ru/i/og/og-new-neibour.png"> 
 <meta property="og:locale" content="ru_RU" />
 <meta property="og:site_name" content="Сообщество соседей Парковый 37а" />
 <!--Twitter cards-->
@@ -48,7 +44,7 @@
 <!--Microdata-->
 <meta itemprop="name" content="Новым соседям • Парковый 37а" />
 <meta itemprop="description" content="Справочник для тех, кто только-только становится нашим соседом" /> 
-<meta itemprop="image" content="http://localhost:9778/i/og/og-new-neibour.png" />
+<meta itemprop="image" content="https://park37a.ru/i/og/og-new-neibour.png" />
 
 </head>
 <body class="global-maw col-flex-xs space-in-mili-xs space-in-base-sm space-in-wide-kilo-lg">
@@ -143,52 +139,7 @@
 
     
         <!-- DocPad Scripts + Our Own -->
-    <script >(function(){
-	/* Did we just livereload? */
-var log = !!(localStorage && console && console.log && true);
-if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReload completed at', new Date())
-}
-
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var primus = new Primus('/docpad-livereload');
-	primus.on('data', function(data){
-		if ( data && data.message ) {
-			if ( data.message === 'generateBefore' ) {
-				if ( log ) {
-					console.log('LiveReload started at', new Date());
-				}
-				if ( typeof document.getElementsByTagName !== 'undefined' ) {
-	document.getElementsByTagName('html')[0].className += ' wait';
-}
-			}
-			else if ( data.message === 'generateAfter' ) {
-				if ( log ) {
-					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-				}
-				document.location.reload();
-			}
-		}
-	});
-};
-	/* Inject socket into our page */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = 'async';
-	t.src = '/docpad-livereload/primus.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t, s);
-};
-	if ( typeof Primus !== 'undefined' ) {
-		listen();
-	} else {
-		inject();
-	}
-})();</script>
+    
     <script defer="defer" src="/js/output.min.js"></script>
 
     <!-- Yandex.Metrika counter -->
