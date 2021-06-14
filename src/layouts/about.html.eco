@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html class="" lang="ru">
+<head>
+    <!-- Standard Meta -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- Site Properities -->
+    <title><%= @getPreparedTitle() %></title>
+    <meta name="description" content="<%= @getPreparedDescription() %>" />
+    <meta name="keywords" content="<%= @getPreparedKeywords() %>" />
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+
+    <!-- DocPad Meta -->
+    <%- @getBlock('meta').toHTML() %>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="/ui/about.css">
+    <%- @getBlock('styles').add([].concat(@site.styles or []).concat(@document.styles or [])).toHTML() %>
+
+    <!-- Favicon -->
+    <%- @partial('favicon') %>
+
+    <!-- Social -->
+    <link rel="canonical" href="<%= @site.canonicalUrl %><%= @document.url %>">
+    <%- @partial('opengraph') %>
+</head>
+<body class="global-maw col-flex-xs space-in-mili-xs space-in-base-sm space-in-wide-kilo-lg">
+    <%- @partial('menu') %>
+    <article class="flex-grow-xs" role="main">
+        <%- @content %>
+    </article>
+    <%- @partial('likely') %>
+
+    <% if (@document.url == '/') : %>
+        <div class="row row-bottom-lg space-out-top-kilo-xs">
+            <div class="col-xs-12 col-lg-8 ">
+                <%- @partial('about') %>
+            </div>
+            <div class="col-xs-12 col-lg-4 ">
+                <div class="space-in-left-kilo-md">
+                    <%- @partial('footer') %>
+                </div>
+            </div>
+        </div>
+    <% else : %>
+        <%- @partial('footer') %>
+    <% end %>
+    <%- @partial('docpadscripts') %>
+    <%- @partial('yandexmetrika') %>
+    <%- @partial('upup') %>
+    <%- @partial('offlinejs') %>
+</body>
+</html>

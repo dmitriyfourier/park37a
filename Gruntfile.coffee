@@ -41,6 +41,7 @@ module.exports = (grunt) ->
 					'out/ui/template.css': 'src/raw/ui/template.less'
 					'out/ui/article.css': 'src/raw/ui/article.less'
 					'out/ui/default.css': 'src/raw/ui/default.less'
+					'out/ui/about.css': 'src/raw/ui/about.less'
 					'out/ui/framework.css': 'src/raw/ui/framework.less'
 					'out/ui/screenshot/screenshot.css': 'src/raw/ui/screenshot/screenshot.less'
 					'out/fonts/webfonts.css': 'src/raw/fonts/webfonts.less'
@@ -76,6 +77,7 @@ module.exports = (grunt) ->
 			dist:
 				src: [
 						'out/ui/homepage.css'
+						'out/ui/about.css'
 						'out/ui/template.css'
 						'out/ui/article.css'
 						'out/ui/default.css'
@@ -90,6 +92,7 @@ module.exports = (grunt) ->
 					'out/ui/homepage.css':'out/ui/homepage.css'
 					'out/ui/template.css':'out/ui/template.css'
 					'out/ui/default.css':'out/ui/default.css'
+					'out/ui/about.css':'out/ui/about.css'
 					'out/ui/article.css':[
 						'out/ui/framework.css'
 						'out/ui/article.css'
