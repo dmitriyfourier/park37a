@@ -1,0 +1,13 @@
+---
+layout: 'homepage'
+title: 'Тарифы на коммунальные услуги'
+description: 'Разбираемся что и сколько стоит в нашем доме'
+keywords: 'Парковый 37а, Пермь, соседи, дом, тсж, сообщество жильцов, FAQ, задать вопрос'
+creator: '@dmitriyfourier'
+og_title: Тарифы на коммунальные услуги
+og_desc: Разбираемся что и сколько стоит в нашем доме
+og_img: og-faq.png
+og_type: website
+---
+<h1 class="space-out-top-micro-xs space-out-top-nano-lg space-out-bottom-base-xs">Тарифы на&nbsp;коммунальные услуги</h1>
+<p>Разбираемся, что и&nbsp;сколько стоит в&nbsp;нашем доме</p>

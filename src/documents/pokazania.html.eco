@@ -12,6 +12,7 @@ og_type: website
 <article class="flex-grow-xs" role="main">
         <header class="row row-middle-md space-out-bottom-mili-xs space-out-bottom-nano-lg">
     <div class="col-xs-12 col-md">
+        <hr>
         <nav class="row space-in-left-kilo-xs space-in-left-micro-md">
 
             <span class="col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm"><strong>Я хочу преедать
@@ -22,9 +23,10 @@ og_type: website
             <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/pokazania/#water">Холодную воду</a>
                 <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/pokazania/#water-orange">Воду по оранжевой квитанции </a>
         </nav>
+        <hr>
     </div>
 </header>
-<h1>Передать показания счётчиков</h1>
+<h1 class="space-out-top-base-lg">Передать показания счётчиков</h1>
 <p>Рассказываем, как преедать показания через интерент, без звонков, смс, и напрягов.</p>
 <section class="" id="projects">
     <div class="row row-bottom-sm row-between-sm">
