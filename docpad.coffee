@@ -74,7 +74,7 @@ docpadConfig = {
 			# warm
 			WarmTarrif: "2 025,85 р/Гкал"
 			# Managment
-			mgmt: "20.35 р/м²"
+			mgmt: "25,35 р/м²"
 
 
 			# The website's styles
