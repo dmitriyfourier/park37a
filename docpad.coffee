@@ -53,6 +53,29 @@ docpadConfig = {
 			googleAnalyticsId: ""
 
 			googleAnalyticsDomain: "park37a.ru"
+			
+			# https://www.gorodperm.ru/actions/jkh/Razvitie%20infrastrukturi/ceni_i_tarifi/
+			TariffsDate: "01.06.2021"
+			# TarrifsElect
+			ElectrifyCommon: "4,25 р/кВтч"
+			ElectrifyDay: "4,29 р/кВтч"
+			ElectrifyNight: "2,74 р/кВтч"
+			# TarrifsGas
+			Gas: "6,30 р/м³"
+			# TarrifsCapital
+			Capital: "9,73 р/м²"
+			# TarrifTrash
+			TarrifTrash: "80,09 р/за 1 проживающего в МКД"
+			# water
+			ColdWater: "33,03 р/м³"
+			ColdWaterForHot: " "
+			HotWater: "167,15 р/м³"
+			WaterExit: " 27,14 р/м²"
+			# warm
+			WarmTarrif: "2 025,85 р/Гкал"
+			# Managment
+			mgmt: "20.35 р/м²"
+
 
 			# The website's styles
 			styles: [
