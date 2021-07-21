@@ -73,12 +73,16 @@
 
 /* Tables */
 .flex-tab{
-    overflow-x:auto
+    overflow: auto;
+	position: relative;
 }
-.table-flex {
-    border-color: #ccc;
-    font-size: 100%;
-    width:100%
+.table-flex table {
+	display: inline-block;
+	vertical-align: top;
+	max-width: 100%;
+	overflow-x: auto;
+	white-space: nowrap;
+	-webkit-overflow-scrolling: touch;
 }
 
 th, td {
