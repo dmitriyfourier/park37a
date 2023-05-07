@@ -37,7 +37,7 @@
         "autoprefixer": "^6.0.1",
         "bettertext.css": "^2.0.4",
         "cssnano": "^5.0.5",
-        "docpad": "6.79.4",
+        "docpad": "6.83.2",
         "docpad-plugin-cleanurls": "~2.11.0",
         "docpad-plugin-coffeescript": "~2.6.0",
         "docpad-plugin-eco": "~2.2.1",
